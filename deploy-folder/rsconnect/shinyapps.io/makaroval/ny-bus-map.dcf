@@ -1,0 +1,8 @@
+name: ny-bus-map
+account: makaroval
+server: shinyapps.io
+bundleId: 310239
+url: https://makaroval.shinyapps.io/ny-bus-map
+when: 1447449437.6684
+asMultiple: FALSE
+asStatic: FALSE
