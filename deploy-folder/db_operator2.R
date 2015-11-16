@@ -6,8 +6,8 @@ loadData <- function(queryInput){
                      dbname = "cs4111", 
                      host = "cs4111.ctvs3tjeewtz.us-west-2.rds.amazonaws.com", 
                      port = 3306, 
-                     username = "yc2998", 
-                     password = "busservice")
+                     username = "****", #enter proper db credentials
+                     password = "****") #enter proper db credentials
     data <- dbGetQuery(con, queryInput)
     dbDisconnect(con)
     data
